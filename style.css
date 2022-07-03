@@ -26,8 +26,8 @@ h1 {
 }
 
 input {
-    background-color: rgba(52, 73, 94, 0.5);
-    color: #ecf0f1;
+    background-color: rgb(242, 244, 247);
+    color: #000b0e;
     outline: none;
     text-align: right;
     border: none;
